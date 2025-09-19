@@ -1,0 +1,2 @@
+# Hearing-loss-detection-in-new-born-babies-using-Machine-learning-techniques.
+Newborn hearing loss can have lifelong effects if not detected early. Screening methods like OAE and ABR are effective but face challenges such as limited resources, follow-up issues, and unequal access. Innovations like tele-audiology and mobile health apps show promise in improving accessibility, especially in remote areas.
